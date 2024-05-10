@@ -161,6 +161,21 @@ img {
     font-size: 18px;
 }
 
-.actioncall .button {
-    color: #3882f6;
+.actioncall button {
+    background-color: #3882f6;
+    border-radius: 5px;
+    font-weight: 700;
+    padding: 4px 12px;
+    color: #e5e7eb;
+    box-shadow: rgb(32, 28, 65, .3) 5px 5px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #1f2937;
+    color: #e5e7eb;
 }
