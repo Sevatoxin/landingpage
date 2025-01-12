@@ -2,4 +2,4 @@
 
 ## Theme: Law
 
-I decided to make the theme of the landing page a law website to match it with my profession.
+I decided to make the theme of the landing page a law website.
